@@ -4,7 +4,7 @@ For easy setup on iOS and macOS, download and install the Apple mobile configura
 
 ## Download for Apple Devices
 
-[Download the Configuration](#)
+[Download the Configuration](https://raw.githubusercontent.com/xRuffKez/DNSBunker/refs/heads/main/doh.mobileconfig)
 
 ---
 
